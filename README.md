@@ -6,4 +6,4 @@
 https://www.sfml-dev.org/tutorials/3.1/getting-started/visual-studio/#installing-sfml
 
 # Презентація
-[Презентація в пдф форматі](Презентація.%ООП%СФМЛ.pdf)
+[Презентація в пдф форматі](Презентація.%20ООП%20СФМЛ.pdf)
